@@ -1,0 +1,9 @@
+C:\Users\krishna\source\repos\MusicStore\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.deps.json
+C:\Users\krishna\source\repos\MusicStore\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\krishna\source\repos\MusicStore\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\krishna\source\repos\MusicStore\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\krishna\source\repos\MusicStore\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\krishna\source\repos\MusicStore\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\krishna\source\repos\MusicStore\BusinessLayer\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\krishna\source\repos\MusicStore\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\krishna\source\repos\MusicStore\BusinessLayer\obj\Debug\netcoreapp2.1\BusinessLayer.pdb

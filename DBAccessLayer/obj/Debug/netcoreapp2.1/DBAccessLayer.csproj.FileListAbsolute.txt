@@ -1,0 +1,9 @@
+C:\Users\krishna\source\repos\MusicStore\DBAccessLayer\bin\Debug\netcoreapp2.1\DBAccessLayer.deps.json
+C:\Users\krishna\source\repos\MusicStore\DBAccessLayer\bin\Debug\netcoreapp2.1\DBAccessLayer.dll
+C:\Users\krishna\source\repos\MusicStore\DBAccessLayer\bin\Debug\netcoreapp2.1\DBAccessLayer.pdb
+C:\Users\krishna\source\repos\MusicStore\DBAccessLayer\obj\Debug\netcoreapp2.1\DBAccessLayer.csprojAssemblyReference.cache
+C:\Users\krishna\source\repos\MusicStore\DBAccessLayer\obj\Debug\netcoreapp2.1\DBAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\krishna\source\repos\MusicStore\DBAccessLayer\obj\Debug\netcoreapp2.1\DBAccessLayer.AssemblyInfoInputs.cache
+C:\Users\krishna\source\repos\MusicStore\DBAccessLayer\obj\Debug\netcoreapp2.1\DBAccessLayer.AssemblyInfo.cs
+C:\Users\krishna\source\repos\MusicStore\DBAccessLayer\obj\Debug\netcoreapp2.1\DBAccessLayer.dll
+C:\Users\krishna\source\repos\MusicStore\DBAccessLayer\obj\Debug\netcoreapp2.1\DBAccessLayer.pdb

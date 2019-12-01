@@ -1,0 +1,14 @@
+C:\Users\krishna\source\repos\MusicStore\MusicStore\bin\Debug\netcoreapp2.1\MusicStore.deps.json
+C:\Users\krishna\source\repos\MusicStore\MusicStore\bin\Debug\netcoreapp2.1\MusicStore.runtimeconfig.json
+C:\Users\krishna\source\repos\MusicStore\MusicStore\bin\Debug\netcoreapp2.1\MusicStore.runtimeconfig.dev.json
+C:\Users\krishna\source\repos\MusicStore\MusicStore\bin\Debug\netcoreapp2.1\MusicStore.dll
+C:\Users\krishna\source\repos\MusicStore\MusicStore\bin\Debug\netcoreapp2.1\MusicStore.pdb
+C:\Users\krishna\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.1\MusicStore.csprojAssemblyReference.cache
+C:\Users\krishna\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.1\MusicStore.csproj.CoreCompileInputs.cache
+C:\Users\krishna\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.1\MusicStore.RazorAssemblyInfo.cache
+C:\Users\krishna\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.1\MusicStore.RazorAssemblyInfo.cs
+C:\Users\krishna\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.1\MusicStore.AssemblyInfoInputs.cache
+C:\Users\krishna\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.1\MusicStore.AssemblyInfo.cs
+C:\Users\krishna\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.1\MusicStore.RazorTargetAssemblyInfo.cache
+C:\Users\krishna\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.1\MusicStore.dll
+C:\Users\krishna\source\repos\MusicStore\MusicStore\obj\Debug\netcoreapp2.1\MusicStore.pdb
